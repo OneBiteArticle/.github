@@ -24,25 +24,10 @@
 
 ## 🔎 한입 기사 기능 살펴보기
 
-### 홈화면 진입 | 로그인 | 튜토리얼
-![](./인트로.gif)
+| <span style="font-size: 18px; font-weight: bold;">홈화면 진입 · 학습 현황 · Top 5</span> | <span style="font-size: 18px; font-weight: bold;">기사 학습</span> | <span style="font-size: 18px; font-weight: bold;">오답 다시 풀기 · 리포트</span> |
+|:---:|:---:|:---:|
+| <img src="../assets/home.gif" width="280" alt="홈화면 진입"> | <img src="../assets/article.gif" width="280" alt="기사 학습"> | <img src="../assets/report.gif" width="280" alt="오답 다시 풀기"> |
 
-<br/>
-
-### 오늘의 Top 5 · 기사 상세
-![](./기사학습.gif)
-
-<br/>
-
-### 퀴즈 풀이 · 키워드 학습
-![](./퀴즈.gif)
-
-<br/>
-
-### 오답 다시 풀기 · 학습 리포트
-![](./리포트.gif)
-
-<br/>
 <br/>
 <br/>
 
