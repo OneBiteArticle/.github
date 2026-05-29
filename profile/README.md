@@ -135,7 +135,7 @@ docker-compose up -d --build
 
 ## 💁‍♂️ 프로젝트 팀원
 <!-- TODO: 권혁준 외 4명의 GitHub 핸들과 역할 입력 -->
-| **[권혁준](https://github.com/yuwolx)** | **변지훈** | **박사랑** | **임선우** | **김휘민** |
+| **[권혁준](https://github.com/yuwolx)** | **변지훈** | **박사랑** | **[임선우](https://github.com/thedduro)** | **김휘민** |
 |:---:|:---:|:---:|:---:|:---:|
-| ![](https://github.com/yuwolx.png?width=120&height=120) | ![](#) | ![](#) | ![](#) | ![](#) |
+| ![](https://github.com/yuwolx.png?width=120&height=120) | ![](#) | ![](#) | ![](https://github.com/thedduro.png?width=120&height=120) | ![](#) |
 | Frontend · PM | <!-- TODO: 역할 --> | <!-- TODO: 역할 --> | <!-- TODO: 역할 --> | <!-- TODO: 역할 --> |
