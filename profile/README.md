@@ -46,7 +46,7 @@
 
 ## 📄 ERD
 <!-- TODO: ERD 이미지 -->
-<img width="1653" height="1279" alt="ERD" src="#" />
+<img alt="ERD" src="../assets/erd.png" />
 
 <br/>
 <br/>
@@ -127,15 +127,29 @@ docker-compose up -d --build
 
 | 문서 | 링크 |
 | :--- | :--- |
-| 기술개발 문서 | [Notion](#) <!-- TODO: 링크 --> |
-| 요구사항 정의서 | [Notion](#) <!-- TODO: 링크 --> |
-| Git 컨벤션 | [Notion](#) <!-- TODO: 링크 --> |
-| Jira 컨벤션 | [Notion](#) <!-- TODO: 링크 --> |
-<!-- TODO: 필요한 문서 행 추가 -->
+| 요구사항 정의서 | [Notion](https://www.notion.so/28da97372b208052917feafcc29bf0e8?source=copy_link) <!-- TODO: 링크 --> |
+| 사용자에게 어떤 기준으로 기사를 선정하여 제공하나요? | [Notion](https://www.notion.so/264a97372b208067bc39cbf50d3b011e?source=copy_link) <!-- TODO: 링크 --> |
+| Test scenario | [Notion](https://www.notion.so/Test-scenario-2f3a97372b2080928a80e00a6dd8cfe4?source=copy_link) <!-- TODO: 링크 --> |
+
+## 👥 협업 컨벤션
+### Git 협업
+| 문서 | 링크 |
+| :--- | :--- |
+| Branch 전략 | [Notion](https://www.notion.so/Branch-25ea97372b208074adf5ff0ac7c64afe?source=copy_link) <!-- TODO: 링크 --> |
+| Pull Request 전략 | [Notion](https://www.notion.so/Pull-Request-25ea97372b208032a08cef93637f484c?source=copy_link) <!-- TODO: 링크 --> |
+| Git 이슈 컨벤션 | [Notion](https://www.notion.so/Git-25ea97372b20804d86ffd6bca678856e?source=copy_link) <!-- TODO: 링크 --> |
+| Git 커밋 컨벤션 | [Notion](https://www.notion.so/Git-25ea97372b208098b112c76292b65739?source=copy_link) <!-- TODO: 링크 --> |
+
+### 팀 협업 
+| 문서 | 링크 |
+| :--- | :--- |
+| 그라운드 룰 | [Notion](https://www.notion.so/25ea97372b20807a8814ebb8c4027df1?source=copy_link) <!-- TODO: 링크 --> |
+| 팀 코드리뷰 문화 | [Notion](https://www.notion.so/25ea97372b208070a67bf4a502ea9b9a?source=copy_link) <!-- TODO: 링크 --> |
+| 기술 문서 작성법 | [Notion](https://www.notion.so/25ea97372b2080c1bbf3c4d2d69d3708?source=copy_link) <!-- TODO: 링크 --> |
+
 
 ## 💁‍♂️ 프로젝트 팀원
-<!-- TODO: 권혁준 외 4명의 GitHub 핸들과 역할 입력 -->
-| **[권혁준](https://github.com/yuwolx)** | **변지훈** | **박사랑** | **[임선우](https://github.com/thedduro)** | **김휘민** |
+| **[권혁준](https://github.com/yuwolx)** | **[변지훈](https://github.com/Byunjihun)** | **[박사랑](https://github.com/sweetpotatolove)** | **[임선우](https://github.com/thedduro)** | **[김휘민](https://github.com/hwi-min)** |
 |:---:|:---:|:---:|:---:|:---:|
-| ![](https://github.com/yuwolx.png?width=120&height=120) | ![](#) | ![](#) | ![](https://github.com/thedduro.png?width=120&height=120) | ![](#) |
-| Frontend · PM | <!-- TODO: 역할 --> | <!-- TODO: 역할 --> | DataEnginner | <!-- TODO: 역할 --> |
+| ![](https://github.com/yuwolx.png?width=120&height=120) | ![](https://github.com/Byunjihun.png?width=120&height=120) | ![](https://github.com/sweetpotatolove.png?width=120&height=120) | ![](https://github.com/thedduro.png?width=120&height=120) | ![](https://github.com/hwi-min.png?width=120&height=120) |
+| Frontend · PM | Backend | DataEnginner | DataEnginner | DataEnginner |
